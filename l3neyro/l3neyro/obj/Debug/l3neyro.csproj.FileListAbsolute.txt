@@ -1,0 +1,10 @@
+C:\Users\Oleksii_Venherets\source\repos\l3neyro\l3neyro\bin\Debug\l3neyro.exe.config
+C:\Users\Oleksii_Venherets\source\repos\l3neyro\l3neyro\bin\Debug\l3neyro.exe
+C:\Users\Oleksii_Venherets\source\repos\l3neyro\l3neyro\bin\Debug\l3neyro.pdb
+C:\Users\Oleksii_Venherets\source\repos\l3neyro\l3neyro\obj\Debug\l3neyro.csprojResolveAssemblyReference.cache
+C:\Users\Oleksii_Venherets\source\repos\l3neyro\l3neyro\obj\Debug\l3neyro.Form1.resources
+C:\Users\Oleksii_Venherets\source\repos\l3neyro\l3neyro\obj\Debug\l3neyro.Properties.Resources.resources
+C:\Users\Oleksii_Venherets\source\repos\l3neyro\l3neyro\obj\Debug\l3neyro.csproj.GenerateResource.cache
+C:\Users\Oleksii_Venherets\source\repos\l3neyro\l3neyro\obj\Debug\l3neyro.csproj.CoreCompileInputs.cache
+C:\Users\Oleksii_Venherets\source\repos\l3neyro\l3neyro\obj\Debug\l3neyro.exe
+C:\Users\Oleksii_Venherets\source\repos\l3neyro\l3neyro\obj\Debug\l3neyro.pdb
